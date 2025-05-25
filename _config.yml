@@ -1,4 +1,13 @@
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark
+header_pages:
+  - index.md
+  - about.md
+
+footer: 'fun fact : this blog was made on a school chromebook in the middle of a lecture'
+
+style: light
 listen_for_clients_preferred_style: false
-footer: fun fact: this blog has been made on a school chromebook
+
+plugins:
+  - jekyll-seo-tag
