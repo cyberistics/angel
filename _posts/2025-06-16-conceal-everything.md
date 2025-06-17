@@ -2,4 +2,16 @@
 title: Conceal-Everything
 date: 2025-06-16
 ---
-hold on ill do this later 
+tldr at the bottom but pretty much im just asking for everyone to use she/her on me from now on. please, for my own safety.
+
+Okay! back at a library computer with 15 minutes. Oh boy. 
+
+So my mom's probably going to find my socials and this blog inevitably. Which is why I plan to change this entire post in a week or two along with a few other ones.
+
+she's a whole lot better from years ago and much more loving, but she's still never going to accept me for who I am unfortunately. 
+
+I wont go into too much detail but the things she says sometimes are genuinely terrifying.  this has made me decide to hide just about ***everything*** from her. I've gone through hell and I really do not need another super stressful life event coming to me again.  
+
+yes I am non binary and aroace, but for the time being I have to play pretend and be cishet until I turn 18 and get the hell out of here. 
+
+being homeless is one of my worst fears honestly. 
