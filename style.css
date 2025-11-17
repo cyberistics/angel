@@ -340,3 +340,7 @@ footer {
     height: 300px;
     margin: 0 auto;
 }
+.arrow {
+    color: #798692 !important;
+    text-decoration: none;
+}
