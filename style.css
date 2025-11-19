@@ -242,14 +242,14 @@ footer {
 #hotline a {
     font-style: italic;
     text-transform: uppercase;
-    color: #520052 !important;
+    color: #7e96ad !important;
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 #hotline a:hover {
     text-decoration: underline;
-    color: #7a007a !important;
+    color: #668cb1 !important;
 }
 
 .graphics-layout {
