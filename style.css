@@ -231,6 +231,15 @@ footer {
     padding: 15px;
 }
 
+.webrings a { 
+    color: #4a6fa5 !important; 
+}
+
+.webrings a:hover {
+    color: #4a6fa5 !important;
+    text-decoration: underline;
+}
+
 #hotline {
     border: 1px solid #000;
     background-color: #fa9aba;
