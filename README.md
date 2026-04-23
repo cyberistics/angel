@@ -1,14 +1,13 @@
-# my new, updated website!
+# WELCOME TO ANGEL.NYA.JE!!!!!!!!!!!!!
 
-which is now under construction!!! soon to be updated!!
+YAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-drastically different from my old one. Featuring:
+New reworked page, done in a few days during my classes at school because I have almost no time at home. I'm so, so happy with this website. It truly is all that I once dreamed of.
 
-- some art of my main sona, recolored + designed after my oldest oc
-- includes a small portfolio
-- a working mini guestbook, fueled by JavaScript
-- a neocities/nekoweb style with several columns and images
+At the current moment, only the front/home page is available. Soon, about, extra, other, and socials will have their pages. Very soon!
 
-my code is quite awful... I know. There's a lot of cleaning I have to do as I left some things unused (╯︵╰,)
+Fun fact this was alllllll done on bitbucket, not github. Sorry github but they blocked you on my school chromebooks and I'm having 0 luck trying to get it back.
 
-but im quite proud of this. I went from barely knowing any HTML, CSS, or JS earlier this year to making a really nice looking website. woo woo!
+Estimated completion: end of April/start of May
+
+yippee!
