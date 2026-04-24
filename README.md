@@ -8,6 +8,6 @@ At the current moment, only the front/home page is available. Soon, about, extra
 
 Fun fact this was alllllll done on bitbucket, not github. Sorry github but they blocked you on my school chromebooks and I'm having 0 luck trying to get it back.
 
-Estimated completion: end of April/start of May
+Estimated full site completion: end of April/start of May
 
 yippee!
