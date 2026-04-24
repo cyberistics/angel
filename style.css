@@ -35,6 +35,7 @@ a:hover, button:hover {
 #container {
 	max-width: 400px;
 	margin: 0 auto;
+	color: #555555;
 	background: #fff;
 	border: 20px solid transparent;
 	border-image-source: url("https://file.garden/ZtOzYrPCZ1cAh7gi/lacebox");
