@@ -301,11 +301,11 @@ footer {
   box-sizing: border-box;
   display: block;
   margin-top: 10px;
-    appearance: none;
+  appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
   outline: none;
-  background-color: white;
+  background-color: white; 
   padding: 10px 35px 10px 15px;
   font-family: 'Quando', serif;
   font-size: 1rem;
